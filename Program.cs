@@ -6,7 +6,7 @@ namespace FirstMethodApp
     {
         static void Main(string[] args)
         {
-            SingSong();
+            SingSong(); // 
             System.Console.WriteLine("2 ye bölümünden kalan: " + RandomNumber());
             System.Console.WriteLine("Çarpma işleminin sonucu: " + MultiplicationNumber(5,9));
             Greeting("Berkay","Berber");
@@ -18,10 +18,10 @@ namespace FirstMethodApp
         }
         static int RandomNumber() 
         {
-            Random rnd = new Random();
-            int number = rnd.Next(1,100);
+            Random rnd = new Random(); 
+            int number = rnd.Next(1,100); // random sayi üretiyoruz
             System.Console.WriteLine("Random sayi: " + number);
-            return (number % 2);
+            return (number % 2); // ikiye bölümünü cevap olarak döndürüyoruz
         }
 
         static int MultiplicationNumber(int x , int y)
