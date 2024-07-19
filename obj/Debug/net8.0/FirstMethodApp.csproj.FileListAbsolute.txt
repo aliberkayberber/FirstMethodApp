@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/bin/Debug/net8.0/FirstMethodApp
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/bin/Debug/net8.0/FirstMethodApp.deps.json
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/bin/Debug/net8.0/FirstMethodApp.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/bin/Debug/net8.0/FirstMethodApp.dll
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/bin/Debug/net8.0/FirstMethodApp.pdb
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/FirstMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/FirstMethodApp.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/FirstMethodApp.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/FirstMethodApp.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/FirstMethodApp.dll
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/refint/FirstMethodApp.dll
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/FirstMethodApp.pdb
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/FirstMethodApp.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/FirstMethodApp/obj/Debug/net8.0/ref/FirstMethodApp.dll
